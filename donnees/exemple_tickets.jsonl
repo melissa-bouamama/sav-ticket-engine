@@ -1,0 +1,13 @@
+{"id": "TCK-000001", "cree_le": "2026-03-14T09:30:00", "client_id": "CLI-0001", "canal": "email", "categorie": "produit_abime", "priorite": 1, "sujet": "Pot cassé à la réception", "message": "Bonjour, mon « Pot terre cuite 21 cm » est arrivé cassé. Merci.", "statut": "ouvert"}
+{"id": "TCK-000002", "cree_le": "2026-03-14T10:00:00", "client_id": "CLI-0002", "canal": " CHAT ", "categorie": "Livraison", "priorite": "P2", "sujet": "Colis non reçu", "message": "Toujours aucun colis pour la commande CMD-00042 à Lyon.", "statut": "en_cours"}
+{"id": "TCK-000003", "cree_le": "2026-03-14T11:15:00", "client_id": "CLI-0003", "canal": "formulaire", "categorie": "conseil_plante", "sujet": "Présence de cochenilles", "message": "Des cochenilles sont apparues sur ma « Monstera deliciosa ».", "statut": "ouvert"}
+{"id": "TCK-000004", "cree_le": "2026-03-14T11:20:00", "client_id": "CLI-0004", "canal": "email", "categ
+{"id": "TCK-000005", "cree_le": "14/03/2026 09h32", "client_id": "CLI-0005", "canal": "email", "categorie": "retour", "priorite": 3, "sujet": "Demande de retour", "message": "Je souhaite retourner mon arrosoir.", "statut": "ouvert"}
+{"id": "TCK-000006", "cree_le": "2026-03-14T12:00:00", "canal": "telephone", "categorie": "facturation", "priorite": 2, "sujet": "Double prélèvement", "message": "J'ai été prélevé deux fois.", "statut": "ouvert"}
+{"id": "TCK-000007", "cree_le": "2026-03-14T12:30:00", "client_id": "CLI-0007", "canal": "chat", "categorie": "livraison", "priorite": "urgent", "sujet": "Retard de livraison", "message": "Le colis devait arriver hier.", "statut": "ouvert"}
+{"id": "TCK-000008", "cree_le": "2026-03-14T13:00:00", "client_id": "CLI-0008", "canal": "chat", "categorie": "SAV", "priorite": 3, "sujet": "Question", "message": "Une question sur ma commande.", "statut": "ouvert"}
+{"id": "TCK-000009", "cree_le": "2026-03-14T13:30:00", "client_id": "CLI-0009", "canal": "fax", "categorie": "autre", "priorite": 4, "sujet": "Carte cadeau", "message": "Le code de ma carte cadeau ne fonctionne pas.", "statut": "ouvert"}
+{"id": "TCK-000001", "cree_le": "2026-03-14T14:00:00", "client_id": "CLI-0010", "canal": "email", "categorie": "retour", "priorite": 3, "sujet": "Doublon", "message": "Ce ticket réutilise un identifiant.", "statut": "ouvert"}
+{"id": "TCK-000011", "cree_le": "2026-03-14T14:30:00", "client_id": "CLI-0011", "canal": "Telephone", "categorie": "retour", "priorite": "4", "sujet": "Remboursement non reçu", "message": "Rappelez-moi au 06 39 98 00 42 ou écrivez à client.test@example.org, merci.", "statut": "resolu"}
+
+{"id": "TCK-000013", "cree_le": "2026-03-14 15:00:00", "client_id": "CLI-0013", "canal": "email", "categorie": "autre", "priorite": 4, "message": "Quels sont les horaires du service client le samedi ?"}

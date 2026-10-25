@@ -1,0 +1,17 @@
+# Environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
+*.egg-info/
+
+# Full generated dataset and the protected working copy (see scripts/generer_donnees.py)
+donnees/tickets.jsonl
+donnees/agents.csv
+donnees/copie_travail/

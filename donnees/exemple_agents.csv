@@ -1,0 +1,4 @@
+agent_id,nom,competences,capacite_jour
+AG-01,Conseiller test A,livraison;retour,2
+AG-02,Conseiller test B,conseil_plante;produit_abime,1
+AG-03,Conseiller test C,facturation;retour;autre,2

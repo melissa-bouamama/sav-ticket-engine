@@ -1,0 +1,13 @@
+agent_id,nom,competences,capacite_jour
+AG-01,Conseiller 01,livraison;retour,40
+AG-02,Conseiller 02,livraison;autre,35
+AG-03,Conseiller 03,conseil_plante;produit_abime,30
+AG-04,Conseiller 04,conseil_plante,25
+AG-05,Conseiller 05,facturation;retour;autre,40
+AG-06,Conseiller 06,facturation,30
+AG-07,Conseiller 07,produit_abime;retour,30
+AG-08,Conseiller 08,livraison;facturation,35
+AG-09,Conseiller 09,conseil_plante;autre,25
+AG-10,Conseiller 10,livraison;produit_abime;retour,45
+AG-11,Conseiller 11,facturation;autre,30
+AG-12,Conseiller 12,conseil_plante;livraison,25

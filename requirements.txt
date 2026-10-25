@@ -1,0 +1,5 @@
+# Core package (moteur_sav/): standard library only. Everything below is optional.
+pytest>=7          # tests
+matplotlib>=3.7    # benchmark charts
+streamlit>=1.30    # demo app
+nbconvert>=7       # re-run the notebook (optional)
